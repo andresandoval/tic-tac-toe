@@ -1,0 +1,31 @@
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\bin\Debug\tresEnRaya.exe
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\bin\Debug\tresEnRaya.pdb
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\bin\Debug\tresEnRaya.xml
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.Form1.resources
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.Resources.resources
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.vbproj.GenerateResource.Cache
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.exe
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.xml
+C:\Users\Andres\AppData\Local\Temporary Projects\tresEnRaya\obj\x86\Debug\tresEnRaya.pdb
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.exe
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.pdb
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.xml
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmMain.resources
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmPlay.resources
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmPlayers.resources
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.Resources.resources
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.vbproj.GenerateResource.Cache
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.exe
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.xml
+Z:\Dropbox\Dev\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.pdb
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.exe
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.xml
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.pdb
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.exe
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.pdb
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\bin\Debug\tresEnRaya.xml
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmPlay.resources
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmMain.resources
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.frmPlayers.resources
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.Resources.resources
+Z:\Dropbox\Development\tresEnRaya\tresEnRaya\obj\x86\Debug\tresEnRaya.vbproj.GenerateResource.Cache
